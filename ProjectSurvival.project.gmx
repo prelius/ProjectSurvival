@@ -4,10 +4,13 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound">
-    <sound>sound\snd_background1</sound>
-  </sounds>
-  <sprites name="sprites"/>
+  <sounds name="sound"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_play_button</sprite>
+    <sprite>sprites\spr_exit</sprite>
+    <sprite>sprites\spr_new_game</sprite>
+    <sprite>sprites\spr_continue</sprite>
+  </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
     <background>background\background2</background>
@@ -15,9 +18,6 @@
     <background>background\background4</background>
   </backgrounds>
   <paths name="paths"/>
-  <objects name="objects">
-    <object>objects\obj_sound_control</object>
-  </objects>
   <rooms name="rooms">
     <room>rooms\rm_mainmenu</room>
   </rooms>

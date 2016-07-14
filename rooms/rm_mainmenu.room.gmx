@@ -11,9 +11,9 @@
   <colour>12632256</colour>
   <showcolour>-1</showcolour>
   <code>background_hspeed[0] = 0.25;
-background_hspeed[1] = 0.85;
-background_hspeed[2] = 1.15;
-background_hspeed[3] = 1.6;</code>
+background_hspeed[1] = 0.5;
+background_hspeed[2] = 1.25;
+background_hspeed[3] = 1.75;</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
